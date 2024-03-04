@@ -5,7 +5,7 @@
 -->
 
 # 💫 About Me:
-I'm a third-year Computer Science student and am eager to expand my skills and knowledge base.<br>I'm always looking for new challenges and opportunities to learn and grow as a developer.<br><br>I am currently and particularly interested in creating user-friendly and visually appealing web applications and mobile applications.<br>Outside of coding, I enjoy playing sports, photography, and explore new and exciting things!<br><br>Feel free to reach out to me if you have any project inquiries or just want to connect! You can find my contact information below or connect with me on LinkedIn.
+I'm a third-year Computer Science student and am eager to expand my skills and knowledge base.<br>I'm always looking for new challenges and opportunities to learn and grow as a developer.<br><br>I am currently and particularly interested in creating user-friendly and visually appealing web applications and mobile applications.<br>Outside of coding, I enjoy playing sports, photography, and exploring new and exciting things!<br><br>Feel free to reach out to me if you have any project inquiries or just want to connect! You can find my contact information below or connect with me on LinkedIn.
 
 
 ## 🌐 Socials:
