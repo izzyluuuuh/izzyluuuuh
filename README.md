@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 -->
 
 **#30NitesOfCode:**
-  [Check out my progress!](https://www.codedex.io/@tellmlaye17096/30-nites-of-code)  
+ <!-- [Check out my progress!](https://www.codedex.io/@tellmlaye17096/30-nites-of-code)  -->
   ![@tellmlaye17096 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=tellmlaye17096)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
