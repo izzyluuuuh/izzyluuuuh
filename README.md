@@ -1,13 +1,26 @@
-<h1 align="center">Howdy 👋</h1>
+## Howdy 👋
 
-I'm Izzy, Broke ahh College student (both literally and figuratively speaking) and I'm based in Metropolitan Manila.
-
+I'm Izzy, broke ahh college student (both literally and figuratively speaking) hahah.
 Give my GitHub a follow!
 
 ### 💫 About Me:
-I'm a third-year Computer Science student and am eager to expand my skills and knowledge base.<br>I'm always looking for new challenges and opportunities to learn and grow as a developer.<br><br>I am currently and particularly interested in creating user-friendly and visually appealing web applications and mobile applications.
 
-💙 Outside of coding, I enjoy playing sports, photography, and exploring new and exciting things!
+- I'm a third-year Computer Science student and am eager to expand my skills and knowledge base.
+- I'm lost lol ???
+  
+  I'm always looking for new challenges and opportunities to learn and grow as a developer.
+  \
+  I am currently and particularly interested in creating user-friendly and visually appealing web applications and mobile applications.
+
+💙 Outside of coding, I enjoy playing sports (you name it 🤷), photography, and exploring new and exciting things!
+
+### Fun facts:
+- My fav pastime is listening to music, exploring music genres.
+- I am kinda obsessed with Totoro. -.-
+- I'm a huge foodie!
+
+#
+![totoro](https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/4b914cfc-a500-4969-b311-e92401c11e0a)
 
 ---
 
