@@ -1,7 +1,7 @@
 ## Howdy 👋
 
-I'm Izzy, broke ahh college student (both literally and figuratively speaking) hahah.
-Give my GitHub a follow!
+I'm Izzy, am just hanging in there hahah.
+Give my GitHub a follow! <3
 
 ### About Me:
 
@@ -23,10 +23,11 @@ Give my GitHub a follow!
 
 ---
 
-Feel free to reach out to me if you have any project inquiries or just want to connect! You can find my contact information below or connect with me on LinkedIn.
+### Feel free to reach out to me if you have any project inquiries or just want to connect! You can find my contact information below or connect with me on LinkedIn.
 
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lae.wxlf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izzyluuuuh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lady-yzidrose-adaya-459308240) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sinehgangg) 
+<!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/USERNAME_HERE)-->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izzyluuuuh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lady-yzidrose-adaya-459308240) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sinehgangg) 
 
 ---
 
