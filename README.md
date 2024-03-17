@@ -1,7 +1,9 @@
-## Howdy 👋
-
-I'm Izzy, am just hanging in there hahah.
-Give my GitHub a follow! <3
+<div align="center">
+  <br>
+  <h1>Howdy 👋</h1>
+  </h2><strong>I'm Izzy, am just hanging in there hahah. Give my GitHub a follow! <3</strong>
+</div>
+<br>
 
 ### About Me:
 
@@ -14,12 +16,14 @@ Give my GitHub a follow! <3
 
 💙 Outside of coding, I enjoy playing sports (you name it 🤷), photography, and exploring new and exciting things!
 
+[<img  alt="Totoro gif" src="https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/c1e6a385-72f4-4698-a240-7b1a7597c23c" align="left" padding="10%" width="230" />](https://github.com/izzyluuuuh?tab=repositories)
+
 ### Fun facts:
 - My fav pastime is listening to music, exploring music genres.
 - I am kinda obsessed with Totoro. -.-
 - I'm a huge foodie!
 
-[<img  alt="Totoro gif" src="https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/c1e6a385-72f4-4698-a240-7b1a7597c23c" width="360" height="190" />](https://github.com/izzyluuuuh?tab=repositories)
+<br>
 
 ---
 
