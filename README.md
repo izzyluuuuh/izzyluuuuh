@@ -29,6 +29,8 @@
 
 ### Feel free to reach out to me if you have any project inquiries or just want to connect! You can find my contact information below or connect with me on LinkedIn.
 
+[<img  alt="HoHvY" src="https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/b2b5a1b9-8079-41e9-810e-05d102554b26" align="right"/>](https://github.com/izzyluuuuh?tab=repositories)
+
 ### 🌐 Socials:
 <!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/USERNAME_HERE)-->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/izzyluuuuh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lady-yzidrose-adaya-459308240) 
