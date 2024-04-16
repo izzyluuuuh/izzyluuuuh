@@ -1,7 +1,7 @@
 <div align="center">
   <br>
-  <h1>Howdy 👋</h1>
-  </h2><strong>I'm Izzy, am just hanging in there hahah. Give my GitHub a follow! <3</strong>
+  <h1>yowza 👋</h1>
+  </h2><strong>I'm Izzy. Give my GitHub a follow! <3</strong>
 </div>
 <br>
 
