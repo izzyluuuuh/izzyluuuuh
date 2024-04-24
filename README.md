@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <h1>yowza 👋</h1>
-  </h2><strong>I'm Izzy. Give my GitHub a follow! <3</strong>
+  <h3><strong>I'm Izzy. Give my GitHub a follow! <3</strong></h3>
 </div>
 <br>
 
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-**#30NitesOfCode:**
+<!--
+**#30NitesOfCode:**-->
  <!-- [Check out my progress!](https://www.codedex.io/@tellmlaye17096/30-nites-of-code)  -->
-  ![@tellmlaye17096 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=tellmlaye17096)
+ <!-- ![@tellmlaye17096 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=tellmlaye17096) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
