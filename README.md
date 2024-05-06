@@ -1,6 +1,12 @@
 <div align="center">
   <br>
-  <h1>yowza 👋</h1>
+  <h1>yowza 
+  <img
+    width="30px"
+    alt="Waving Emoji"
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+  />
+  </h1>
   <h3><strong>I'm Izzy. Give my GitHub a follow! <3</strong></h3>
 </div>
 <br>
