@@ -14,11 +14,12 @@
 ### About Me:
 
 - I'm a third-year Computer Science student and am eager to expand my skills and knowledge base.
-- My fav pastime is listening to music, exploring music genres.
   
   I'm always looking for new challenges and opportunities to learn and grow as a developer.
   \
   I am currently and particularly interested in creating user-friendly and visually appealing web applications and mobile applications.
+
+- My fav pastime is listening to music, exploring music genres.
 
 💙 Outside of coding, I enjoy playing sports, photography, and exploring new and exciting things!
 
@@ -46,7 +47,8 @@
 
 ### THIS IS MY UYAB GUYS 💚 HAHAHAHA
 
-https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/f11e97d8-f052-45e0-8ff6-f574dd9da40d
+https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/cdc4bcfd-d1f2-4b5e-a7a0-b3f43348b392
+
 
 
 
