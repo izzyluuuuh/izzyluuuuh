@@ -19,7 +19,7 @@
   \
   I am currently and particularly interested in creating user-friendly and visually appealing web applications and mobile applications.
 
-- My fav pastime is listening to music, exploring music genres.
+- My fav pastime is listening to music; i listen to music and do nothing.
 
 💙 Outside of coding, I enjoy playing sports, photography, and exploring new and exciting things!
 
