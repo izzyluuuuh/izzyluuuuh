@@ -45,9 +45,9 @@
 
 ---
 
-### THIS IS MY UYAB GUYS 💚 HAHAHAHA
+<!--### THIS IS MY UYAB GUYS 💚 HAHAHAHA
 
-https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/cdc4bcfd-d1f2-4b5e-a7a0-b3f43348b392
+https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/cdc4bcfd-d1f2-4b5e-a7a0-b3f43348b392-->
 
 
 
