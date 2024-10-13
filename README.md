@@ -28,7 +28,7 @@
 -->
 
 ### ⚡ Fun facts:
-- 🖤🩷BLACKPINK Lisa | 🌸BINI Jho, Aiah, & Colet enjoyer. ᨐฅ
+- 🖤🩷BLACKPINK Lisa enjoyer. ᨐฅ
 - I am kinda obsessed with electric guitar(ists). -.-
 - I'm a huge foodie!
 
