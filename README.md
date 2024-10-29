@@ -32,7 +32,6 @@
 - I am kinda obsessed with electric guitar(ists). -.-
 - I'm a huge foodie!
 
-<br>
 
 ---
 
