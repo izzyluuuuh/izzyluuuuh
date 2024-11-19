@@ -29,7 +29,7 @@
 
 ### ⚡ Fun facts:
 - 🖤🩷BLACKPINK Lisa enjoyer. ᨐฅ
-- I am kinda obsessed with electric guitar(ists). -.-
+- I am kinda obsessed with mofusand. -.-
 - I'm a huge foodie!
 
 
