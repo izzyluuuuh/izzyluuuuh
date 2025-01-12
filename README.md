@@ -8,6 +8,7 @@
   />
   </h1>
   <h3><strong>I'm Izzy. Give my GitHub a follow! <3</strong></h3>
+    <sub>Web Developer | UI/UX Designer</sub>
 </div>
 <br>
 
@@ -17,7 +18,7 @@
   
   I'm always looking for new challenges and opportunities to learn and grow as a developer.
   \
-  I am currently and particularly interested in creating user-friendly and visually appealing web applications and mobile applications.
+  I am currently and particularly interested in creating user-friendly and visually appealing web applications.
 
 - My fav pastime is listening to music; i listen to music and do nothing.
 
