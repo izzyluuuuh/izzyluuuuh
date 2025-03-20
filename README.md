@@ -18,9 +18,9 @@
   
   I'm always looking for new challenges and opportunities to learn and grow as a developer.
   \
-  I am currently and particularly interested in creating user-friendly and visually appealing web applications.
+  I am currently and particularly interested in <strong>Android development</strong>.
 
-- My fav pastime is listening to music; i listen to music and do nothing.
+<!-- - My fav pastime is listening to music; i listen to music and do nothing. -->
 
 💙 Outside of coding, I enjoy playing sports, photography, and exploring new and exciting things!
 
@@ -30,8 +30,8 @@
 
 ### ⚡ Fun facts:
 - 🖤🩷BLACKPINK Lisa enjoyer. ᨐฅ
-- I am kinda obsessed with mofusand. -.-
-<!-- - I'm a huge foodie! -->
+<!-- - I am kinda obsessed with mofusand. -.-
+- I'm a huge foodie! -->
 
 
 ---
@@ -47,9 +47,7 @@
 
 ---
 
-<!--### THIS IS MY UYAB GUYS 💚 HAHAHAHA
-
-https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/cdc4bcfd-d1f2-4b5e-a7a0-b3f43348b392-->
+<!-- 💚 -->
 
 
 
