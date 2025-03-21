@@ -7,18 +7,16 @@
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
   />
   </h1>
-  <h3><strong>I'm Izzy. Give my GitHub a follow! <3</strong></h3>
-    <sub>Web Developer | UI/UX Designer</sub>
+  <h3>I'm Izzy.</h3>
+<!--     <sub>Web Developer | UI/UX Designer</sub> -->
 </div>
 <br>
 
 ### About Me:
 
-- I'm a fourth-year Computer Science student and am eager to expand my skills and knowledge base.
-  
-  I'm always looking for new challenges and opportunities to learn and grow as a developer.
-  \
-  I am currently and particularly interested in <strong>Android development</strong>.
+- I'm a fourth-year Computer Science student with experience in Web development and UI/UX design.
+
+  I am currently and particularly interested in <strong>Android app development</strong>.
 
 <!-- - My fav pastime is listening to music; i listen to music and do nothing. -->
 
