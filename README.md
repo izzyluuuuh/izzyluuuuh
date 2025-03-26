@@ -28,13 +28,13 @@
 
 ### ⚡ Fun facts:
 - 🖤🩷BLACKPINK Lisa enjoyer. ᨐฅ
-<!-- - I am kinda obsessed with mofusand. -.-
-- I'm a huge foodie! -->
+<!-- - I am kinda obsessed with mofusand. -.- -->
 
 
 ---
 
-### Feel free to reach out to me if you have any project inquiries or just want to connect! You can find my contact information below or connect with me on LinkedIn.
+### Feel free to reach out to me! You can find my socials below or connect with me on LinkedIn.
+<!-- if you have any project inquiries or just want to connect! -->
 
 [<img  alt="HoHvY" src="https://github.com/izzyluuuuh/izzyluuuuh/assets/103919666/b2b5a1b9-8079-41e9-810e-05d102554b26" align="right"/>](https://github.com/izzyluuuuh?tab=repositories)
 
