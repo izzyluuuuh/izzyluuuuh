@@ -27,7 +27,7 @@
 -->
 
 ### ⚡ Fun facts:
-- 🖤🩷BLACKPINK [Lisa](https://www.instagram.com/lalalalisa_m/) enjoyer. ᨐฅ
+- 🖤🩷Blackpink [LISA](https://www.instagram.com/lalalalisa_m/) enjoyer. ᨐฅ
 <!-- - I am kinda obsessed with mofusand. -.- -->
 
 
