@@ -16,7 +16,7 @@
 
 - I'm a fourth-year Computer Science student with experience in Web development and UI/UX design.
 
-  I am currently and particularly interested in <strong>Android app development</strong>.
+  I am currently interested in <strong>React Native & Android native app development</strong>.
 
 <!-- - My fav pastime is listening to music; i listen to music and do nothing. -->
 
