@@ -14,7 +14,7 @@
 
 ### About Me:
 
-- I'm a fourth-year Computer Science student with experience in Web development and UI/UX design.
+- Software Dev & UI/UX Designer
 
  <!-- I am currently interested in <strong>React Native & Android native app development</strong>. -->
 
