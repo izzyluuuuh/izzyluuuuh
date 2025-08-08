@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>yowza 
+  <h1>yowza ev'one
   <img
     width="30px"
     alt="Waving Emoji"
